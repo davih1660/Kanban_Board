@@ -1,4 +1,4 @@
-package br.com.luminamind.kanban.kanban.api;
+package br.com.luminamind.kanban.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
